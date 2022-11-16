@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13a11c5b.css",
+    "main.js": "/static/js/main.155bb9f0.js",
+    "static/js/787.21209c10.chunk.js": "/static/js/787.21209c10.chunk.js",
+    "static/media/wolverin.mp4": "/static/media/wolverin.47422befff57003ef5bf.mp4",
+    "static/media/Deadpool.mp4": "/static/media/Deadpool.e612daab3ccf4a1a8e89.mp4",
+    "static/media/Batman.mp4": "/static/media/Batman.83e93af0428c988e4739.mp4",
+    "static/media/Ironman.mp4": "/static/media/Ironman.4efaff6a15a98ab1561d.mp4",
+    "static/media/doctorstrangepng.png": "/static/media/doctorstrangepng.ad46aeac923071879bfe.png",
+    "static/media/ironmanpng.png": "/static/media/ironmanpng.08778fba8e7f6d3f44d7.png",
+    "static/media/batmanpng.png": "/static/media/batmanpng.be06215b73650b8ed59b.png",
+    "static/media/wolverinpng.png": "/static/media/wolverinpng.83ea998fd6c883375afe.png",
+    "static/media/deadpoolpng.png": "/static/media/deadpoolpng.d191183a81427f05b9bd.png",
+    "static/media/batman begins2.jpg": "/static/media/batman begins2.5f8e099f1cb58cbf1586.jpg",
+    "static/media/Logo-Netflix.png": "/static/media/Logo-Netflix.a3092e10ce2527646427.png",
+    "index.html": "/index.html",
+    "main.13a11c5b.css.map": "/static/css/main.13a11c5b.css.map",
+    "main.155bb9f0.js.map": "/static/js/main.155bb9f0.js.map",
+    "787.21209c10.chunk.js.map": "/static/js/787.21209c10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a11c5b.css",
+    "static/js/main.155bb9f0.js"
+  ]
+}
