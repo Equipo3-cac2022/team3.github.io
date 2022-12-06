@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/team3.github.io/static/css/main.13a11c5b.css",
-    "main.js": "/team3.github.io/static/js/main.ff67a636.js",
+    "main.css": "/team3.github.io/static/css/main.792ab99d.css",
+    "main.js": "/team3.github.io/static/js/main.82612074.js",
     "static/js/787.21209c10.chunk.js": "/team3.github.io/static/js/787.21209c10.chunk.js",
     "static/media/wolverin.mp4": "/team3.github.io/static/media/wolverin.47422befff57003ef5bf.mp4",
+    "static/media/Deadpool.mp4": "/team3.github.io/static/media/Deadpool.e612daab3ccf4a1a8e89.mp4",
     "static/media/Batman.mp4": "/team3.github.io/static/media/Batman.83e93af0428c988e4739.mp4",
     "static/media/Ironman.mp4": "/team3.github.io/static/media/Ironman.4efaff6a15a98ab1561d.mp4",
+    "static/media/doctorstrangepng.png": "/team3.github.io/static/media/doctorstrangepng.ad46aeac923071879bfe.png",
     "static/media/ironmanpng.png": "/team3.github.io/static/media/ironmanpng.08778fba8e7f6d3f44d7.png",
     "static/media/batmanpng.png": "/team3.github.io/static/media/batmanpng.be06215b73650b8ed59b.png",
     "static/media/wolverinpng.png": "/team3.github.io/static/media/wolverinpng.83ea998fd6c883375afe.png",
-    "static/media/Logo-Netflix.png": "/team3.github.io/static/media/Logo-Netflix.a3092e10ce2527646427.png",
+    "static/media/deadpoolpng.png": "/team3.github.io/static/media/deadpoolpng.d191183a81427f05b9bd.png",
+    "static/media/batman begins2.jpg": "/team3.github.io/static/media/batman begins2.5f8e099f1cb58cbf1586.jpg",
+    "static/media/notflix-logo-medium.png": "/team3.github.io/static/media/notflix-logo-medium.007bd33f70627f66125b.png",
+    "static/media/play.png": "/team3.github.io/static/media/play.08378d4e91727ec710b0.png",
     "index.html": "/team3.github.io/index.html",
-    "main.13a11c5b.css.map": "/team3.github.io/static/css/main.13a11c5b.css.map",
-    "main.ff67a636.js.map": "/team3.github.io/static/js/main.ff67a636.js.map",
+    "main.792ab99d.css.map": "/team3.github.io/static/css/main.792ab99d.css.map",
+    "main.82612074.js.map": "/team3.github.io/static/js/main.82612074.js.map",
     "787.21209c10.chunk.js.map": "/team3.github.io/static/js/787.21209c10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.13a11c5b.css",
-    "static/js/main.ff67a636.js"
+    "static/css/main.792ab99d.css",
+    "static/js/main.82612074.js"
   ]
 }
