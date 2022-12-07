@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/team3.github.io/static/css/main.792ab99d.css",
-    "main.js": "/team3.github.io/static/js/main.82612074.js",
+    "main.css": "/team3.github.io/static/css/main.004f951e.css",
+    "main.js": "/team3.github.io/static/js/main.c41dc5c3.js",
     "static/js/787.21209c10.chunk.js": "/team3.github.io/static/js/787.21209c10.chunk.js",
     "static/media/wolverin.mp4": "/team3.github.io/static/media/wolverin.47422befff57003ef5bf.mp4",
     "static/media/Deadpool.mp4": "/team3.github.io/static/media/Deadpool.e612daab3ccf4a1a8e89.mp4",
@@ -16,12 +16,12 @@
     "static/media/notflix-logo-medium.png": "/team3.github.io/static/media/notflix-logo-medium.007bd33f70627f66125b.png",
     "static/media/play.png": "/team3.github.io/static/media/play.08378d4e91727ec710b0.png",
     "index.html": "/team3.github.io/index.html",
-    "main.792ab99d.css.map": "/team3.github.io/static/css/main.792ab99d.css.map",
-    "main.82612074.js.map": "/team3.github.io/static/js/main.82612074.js.map",
+    "main.004f951e.css.map": "/team3.github.io/static/css/main.004f951e.css.map",
+    "main.c41dc5c3.js.map": "/team3.github.io/static/js/main.c41dc5c3.js.map",
     "787.21209c10.chunk.js.map": "/team3.github.io/static/js/787.21209c10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.792ab99d.css",
-    "static/js/main.82612074.js"
+    "static/css/main.004f951e.css",
+    "static/js/main.c41dc5c3.js"
   ]
 }
